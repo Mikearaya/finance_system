@@ -395,15 +395,15 @@ The person responsible for the petty cash is known as the petty cash custodian (
 * Memo
 
 # Databases
-* ## Chart of accounts
-    * ### account name
-    * ### account group
-        * Bank Accounts
-        * cash accounts
-        * fixed assets
-        * loan accounts
-        * secured loan accounts
-        * direct expense
+* Chart of accounts
+* account name
+* account group
+    * Bank Accounts
+    * cash accounts
+    * fixed assets
+    * loan accounts
+    * secured loan accounts
+    * direct expense
         * indirect expense
         * Investments
         * loan and advances
@@ -421,14 +421,14 @@ The person responsible for the petty cash is known as the petty cash custodian (
         * Other Charges on Purchase
         * Discount Recieved-Direct Income
         * Discount Recieved-Indirect Income
-    * ### effective date
-    * ### opening balace
-* ## Income
-* ## Asset
-* ## Expense
-* ## Account Receivables
-* ## Account Payable
-* ## owners Equity
+    * effective date
+    * opening balace
+* Income
+* Asset
+* Expense
+* Account Receivables
+* Account Payable
+* owners Equity
 
 
 
