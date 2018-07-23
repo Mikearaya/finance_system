@@ -430,6 +430,11 @@ The person responsible for the petty cash is known as the petty cash custodian (
 * Account Payable
 * owners Equity
 
+## Side Nav Menus
+* Expense
+* Income
+* Reports
+
 
 
 
