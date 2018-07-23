@@ -432,6 +432,11 @@ The person responsible for the petty cash is known as the petty cash custodian (
 
 ## Side Nav Menus
 * Expense
+    * Record Expences
+    * Record Purchases
+    * Purchase Orders
+    * Make Paymetns
+    
 * Income
 * Reports
 
