@@ -343,15 +343,12 @@ The person responsible for the petty cash is known as the petty cash custodian (
 * Location Notification
 * Allow Negative Prices Boolean
 
-
 ### Items Default 
-
 * Sales Default – Account 
 * Inventory Account
 * C.O.G.S. Account
 * Inventory Adjustment Account
 * WIP Account
-
 
 ### Fixed Assets Defaults 
 * Loss on Asset Disposal Account
@@ -366,9 +363,36 @@ The person responsible for the petty cash is known as the petty cash custodian (
 * Fiscal Year Begin
 * Fiscal Year End
 * is Closed
-** Yes
-** No
+    * Yes
+    * No
 
+### Payment Terms 
+* Term Discription 
+* Payment type
+    * Prepayment 
+    * Cash
+    * After No of Days
+    * Day in Following Month
+
+### Shipping Company
+* Name
+* Contact Person
+* Phone Number
+* Secondary Phone Number
+* Address
+
+### Point Of Sale
+* Point of Sale Name
+* Allowed Credit Term Selection
+* Default Cash Account
+* Point Of Sell Location
+
+### Void Transaction 
+
+* Transaction Type
+* Date From 
+* Date To
+* Memo
 
 
 
