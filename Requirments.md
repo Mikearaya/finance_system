@@ -439,7 +439,36 @@ The person responsible for the petty cash is known as the petty cash custodian (
     
 * Income
 * Reports
+ financial 
+    * Balance sheet
+    * Profit and loss
+    * Trial balance 
+    * Tax summary report
+    * Vat summary report
+  
+    * Ledger
+    * Day book
+    * Transaction report
+    * cash book 
+    * Bank book
+    * Bank reconcilation
+    * Journal rejister
+    * Credit note register
+    * Debit note register
+    
+    * Sales register
+    * Invoice register
+    * Outstanding recipts
+    * Invoice settlment
+    * Recievable aging
 
+    * Expence summary
+    * Outstanding payments
+    * Purchase settlement
+    * Credit Expense Outstandings
+    
+      
+    
 
 
 
