@@ -267,6 +267,111 @@ The person responsible for the petty cash is known as the petty cash custodian (
 * Transfer From
 * Current Book Value
 
+# From FrontAccount System
+
+## User Data 
+* User Login name
+* Password
+* Full Name
+* Telephone
+* E-Mail Address
+* Access Level
+** AP Officer
+** AR Officer
+** Inquiries 
+** Accountant
+** Product Manager
+** Purchase Officer 
+** Sales Man
+** Stock Manager
+** Sub Admin
+** System Administrator
+
+
+
+## Access Setup
+* Role Name
+* Role Discription
+* Current Status
+
+## Tax
+* Description
+* Rate
+* Sales General Lager Account
+* Purchase General Ledger Account
+
+## Tax Group
+* Description
+
+## Item Tax Type
+* Description
+* is Fully Tax Exempt
+	** Yes
+	** No
+
+
+
+## System and General Ledger Setup
+
+### General Ledger
+* Past Due Days Interval in days
+* Account Type
+** Numeric
+** alpha Numeric
+** ALPHA Numeric
+* Retained Earning – Account
+* Profit/Loss Year – Account
+* Bank Charges Account
+* Tax Algorithm
+** Sum Per line Taxes
+** Taxes From Total
+
+### Suppliers and Purchasing 
+* Delivery Over-recieve Allowance
+* Invoice Over-charge Allowance
+
+### Suppliers  & Purchasing Defaults 
+* Payable Account
+* Purchase Discount Account
+* GRN Clearing Account
+* Recival Required By – days
+* Show PO Item Codes – Boolean
+
+### Inventory 
+* Allow Negative Inventory – Boolean
+* No-Zero Amounts (Service) – Boolean
+* Location Notification
+* Allow Negative Prices Boolean
+
+
+### Items Default 
+
+* Sales Default – Account 
+* Inventory Account
+* C.O.G.S. Account
+* Inventory Adjustment Account
+* WIP Account
+
+
+### Fixed Assets Defaults 
+* Loss on Asset Disposal Account
+* Depreciation Period
+** Monthly
+** Yearly
+
+### Manufacturing Defaults 
+* Work Order Required By After – Days
+
+### Fiscal Year
+* Fiscal Year Begin
+* Fiscal Year End
+* is Closed
+** Yes
+** No
+
+
+
+
 
 
 
