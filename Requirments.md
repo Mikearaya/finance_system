@@ -55,7 +55,7 @@ In financial accounting, a cash flow statement, also known as statement of cash 
 # Required Initial Setups
 * Party Rules (Concerning GL accounts  to be assigned to Customers, Suppliers and Staff at the time of transaction by default)
 * Petty cash
-** Petty cash is a small amount of cash on hand that is used for paying small amounts owed, rather than writing a check. Petty cash is also referred to as a petty cash fund
+    * Petty cash is a small amount of cash on hand that is used for paying small amounts owed, rather than writing a check. Petty cash is also referred to as a petty cash fund
 The person responsible for the petty cash is known as the petty cash custodian (https://www.accountingcoach.com/blog/what-is-petty-cash)
 * Depreciation Percentage 
 * Fixed Asset Master
@@ -169,18 +169,18 @@ The person responsible for the petty cash is known as the petty cash custodian (
 * Date
 * Invoice Number
 * Party
-** Amount
-** Item Code
-** Description
-** Unit
-** Quantity
-** Not Unit Rate
+    * Amount
+    * Item Code
+    * Description
+    * Unit
+    * Quantity
+    * Not Unit Rate
 ### Expense Summary by Cost Center
 * Account
-** Cost
-** Center Code
-** Description
-** Amount
+    * Cost
+    * Center Code
+    * Description
+    * Amount
 ### Cost Center Detail by Expense Accounts
 ### Transaction Statistics Report 
 * Description
@@ -220,14 +220,14 @@ The person responsible for the petty cash is known as the petty cash custodian (
 * Accumulative Depreciation GL
 * Depreciation Expence GL
 * Asset GL
-** Year
-** Quarter
-** Period 
-** Month
-** Depreciation Amount
-** Amorized Amount
-** Accumulate Depreciation
-** Book Value
+    * Year
+    * Quarter
+    * Period 
+    * Month
+    * Depreciation Amount
+    * Amorized Amount
+    * Accumulate Depreciation
+    * Book Value
 
 ### Monthly Depreciation – Summary
 * Asset Category
@@ -240,13 +240,13 @@ The person responsible for the petty cash is known as the petty cash custodian (
 
 ### Monthly Depreciation – Detail
 * Asset Category
-** Asset Id
-** Asset Description
-** Original Cost
-** Added Value
-** Depreciation Amount
-** Accumulative Depreciation Amount
-** Book Value
+* Asset Id
+* Asset Description
+* Original Cost
+* Added Value
+* Depreciation Amount
+* Accumulative Depreciation Amount
+* Book Value
 
 ### Quarterly Report
 * Fixed Asset Category
@@ -276,16 +276,16 @@ The person responsible for the petty cash is known as the petty cash custodian (
 * Telephone
 * E-Mail Address
 * Access Level
-** AP Officer
-** AR Officer
-** Inquiries 
-** Accountant
-** Product Manager
-** Purchase Officer 
-** Sales Man
-** Stock Manager
-** Sub Admin
-** System Administrator
+    * AP Officer
+    * AR Officer
+    * Inquiries 
+    * Accountant
+    * Product Manager
+    * Purchase Officer 
+    * Sales Man
+    * Stock Manager
+    * Sub Admin
+    * System Administrator
 
 
 
@@ -306,8 +306,8 @@ The person responsible for the petty cash is known as the petty cash custodian (
 ## Item Tax Type
 * Description
 * is Fully Tax Exempt
-	** Yes
-	** No
+	* Yes
+	* No
 
 
 
@@ -316,15 +316,15 @@ The person responsible for the petty cash is known as the petty cash custodian (
 ### General Ledger
 * Past Due Days Interval in days
 * Account Type
-** Numeric
-** alpha Numeric
-** ALPHA Numeric
+    * Numeric
+    * alpha Numeric
+    * ALPHA Numeric
 * Retained Earning – Account
 * Profit/Loss Year – Account
 * Bank Charges Account
 * Tax Algorithm
-** Sum Per line Taxes
-** Taxes From Total
+    * Sum Per line Taxes
+    * Taxes From Total
 
 ### Suppliers and Purchasing 
 * Delivery Over-recieve Allowance
@@ -353,8 +353,8 @@ The person responsible for the petty cash is known as the petty cash custodian (
 ### Fixed Assets Defaults 
 * Loss on Asset Disposal Account
 * Depreciation Period
-** Monthly
-** Yearly
+    * Monthly
+    * Yearly
 
 ### Manufacturing Defaults 
 * Work Order Required By After – Days
