@@ -445,7 +445,6 @@ The person responsible for the petty cash is known as the petty cash custodian (
     * Trial balance 
     * Tax summary report
     * Vat summary report
-  
     * Ledger
     * Day book
     * Transaction report
@@ -455,13 +454,11 @@ The person responsible for the petty cash is known as the petty cash custodian (
     * Journal rejister
     * Credit note register
     * Debit note register
-    
     * Sales register
     * Invoice register
     * Outstanding recipts
     * Invoice settlment
     * Recievable aging
-
     * Expence summary
     * Outstanding payments
     * Purchase settlement
@@ -469,8 +466,12 @@ The person responsible for the petty cash is known as the petty cash custodian (
     
       
     
+# [From Profit Book] (https://www.profitbooks.net/)
 
-
-
-
-
+## Features
+* Create Time Based Invoices
+* Create Cash Invoices for Cash Transactionj
+* Track Overdue Invoices And Recievables
+* Identify Customers Who Owe You & Follow Up
+* Track Payables 
+* Record Stock Purchase
