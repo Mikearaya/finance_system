@@ -438,32 +438,7 @@ The person responsible for the petty cash is known as the petty cash custodian (
     * Make Paymetns
     
 * Income
-* Reports
- financial 
-    * Balance sheet
-    * Profit and loss
-    * Trial balance 
-    * Tax summary report
-    * Vat summary report
-    * Ledger
-    * Day book
-    * Transaction report
-    * cash book 
-    * Bank book
-    * Bank reconcilation
-    * Journal rejister
-    * Credit note register
-    * Debit note register
-    * Sales register
-    * Invoice register
-    * Outstanding recipts
-    * Invoice settlment
-    * Recievable aging
-    * Expence summary
-    * Outstanding payments
-    * Purchase settlement
-    * Credit Expense Outstandings
-    
+   
       
     
 # [From Profit Book] (https://www.profitbooks.net/)
@@ -475,3 +450,92 @@ The person responsible for the petty cash is known as the petty cash custodian (
 * Identify Customers Who Owe You & Follow Up
 * Track Payables 
 * Record Stock Purchase
+
+
+# Summarized Funtion 
+* Organization Information Management
+	* Branch Management
+		* Department Management
+
+
+* Chart of Account Management on many different hierarchy  
+* Budget Management
+* Default Transactions Account Management (e.g. For Purchase, For Sales, For Depreciation) / Party Rule 
+* Ledger Management
+* Company Calendar Management
+* Suppliers Record Vendors/Suppliers
+* Customers Management
+* Bank Reconciliation
+* Generate Balance Sheet
+* Generate Trial Balance
+* Generate Income statement
+* Cost Center Management
+* Outstanding Receivable Management
+* Outstanding Payment Management
+* Budget and Actual Comparison
+* Depreciation Management
+* Asset Management
+* Liability Management
+* Expense Management
+* Revenue Management
+* Income
+* Banking
+* Accounting
+* Reports
+* Financial Report
+* Tax Management
+* Auditor Management
+
+
+# Reports
+    * financial 
+        * Balance sheet
+        * Profit and loss
+        * Trial balance 
+        * Tax summary report
+        * Vat summary report
+    * Other Reports
+        * Ledger
+        * Day book
+        * Transaction report
+        * cash book 
+        * Bank book
+        * Bank reconcilation
+        * Journal rejister
+        * Credit note register
+        * Debit note register
+    * Sales Reports
+        * Sales register
+        * Invoice register
+        * Outstanding recipts
+        * Invoice settlment
+        * Recievable aging
+    * Expense Report
+        * Expence summary
+        * Outstanding payments
+        * Purchase settlement
+        * Credit Expense Outstandings
+        * Sundry Creditors
+    * Inventory Reports
+        * Product Catalog
+        * Product Wise Stock
+        * Low Stock Register
+        * Customer Wise Pending Order
+        * Pending Delivery Challan
+        * Stock Wastage Register
+        * Warehouse Wise Stock
+        * Inventory Valuation Stock
+        * Stock Summary
+        * Product Statement
+    * Reimbersement 
+        * Outstanding Reimbershment
+    * Payroll Report
+        * Payment Advice
+        * Breakup by Employee
+        * Breakup for Employee
+    * Timesheet Report
+        * Timesheet
+    * Work Report
+        * Recent Activities
+    * Gain or Loss
+        * Gain or Loss
