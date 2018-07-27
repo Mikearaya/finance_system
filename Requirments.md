@@ -454,19 +454,32 @@ The person responsible for the petty cash is known as the petty cash custodian (
 
 # Summarized Funtion 
 * Organization Information Management
+	used to specify information about the organization 
 	* Branch Management
 		* Department Management
 
 
-* Chart of Account Management on many different hierarchy  
+* Chart of Account Management on many different hierarchy 
+	used to creat chart of account for the organization transactions
+	 
 * Budget Management
+	used to manage the allocated budget for each account listed on the organizations chart of account
 * Default Transactions Account Management (e.g. For Purchase, For Sales, For Depreciation) / Party Rule 
+	
 * Ledger Management
+	this is a document that will record all the transactions happening in a company
 * Company Calendar Management
+	companies will be able to define their calander year
 * Suppliers Record Vendors/Suppliers
+	holds record of major supplier of a company
 * Customers Management
+	holds record of the major customers
 * Bank Reconciliation
+	for comparing the balance shown on the organization balance sheet and the one provided by the bank.
+	helpful to analize the overall health of the organizations transactions
 * Generate Balance Sheet
+	a statement of the assets, liabilities, and capital of a business or other organization at a particular point in time, detailing the 
+	balance of income and expenditure over the preceding period.
 * Generate Trial Balance
 * Generate Income statement
 * Cost Center Management
