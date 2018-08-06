@@ -552,3 +552,36 @@ The person responsible for the petty cash is known as the petty cash custodian (
         * Recent Activities
     * Gain or Loss
         * Gain or Loss
+
+
+## Bank Reconciliation
+* reconciling item is a difference between balances from two sources that are being compared
+###Deposit in transit. 
+Cash and/or checks that have been received and recorded by an entity, but which have not yet been recorded in the records of the bank where the entity deposits the funds
+### Outstanding check. 
+A check payment that has been recorded by the issuing entity, but which has not yet cleared its bank account as a deduction from cash.
+### NSF check. 
+A check that was not honored by the bank of the entity issuing the check, on the grounds that the entity's bank account does not contain sufficient funds. NSF is an acronym for "not sufficient funds."
+
+    1. A listing of uncleared checks and uncleared deposits will appear.
+    2. Check off in the bank reconciliation module all checks that are listed on the bank statement as having cleared the bank.
+    3. Check off in the bank reconciliation module all deposits that are listed on the bank statement as having cleared the bank.
+    4. Enter as expenses all bank charges appearing on the bank statement, and which have not already been recorded in the company's records.
+    5. Enter the ending balance on the bank statement. If the book and bank balances match, then post all changes recorded in the bank reconciliation and close the module. 
+### Problems
+#### Uncleared checks that continue to not be presented. 
+	- Checks that either are not presented to the bank for payment for a long time, or which are never presented for payment.
+	- Treat them in the same manner as any other uncleared checks 
+	- will be an ongoing reconciling item.
+#### Checks clear the bank after having been voided.
+	- If you did not void it with the bank, then you must record the check with a credit to the cash account and a debit to indicate the reason for the payment (such as an expense account, or an increase in a cash account or decrease in a liability account). 
+	- If the payee has not yet cashed the replacement check, you should void it with the bank at once to avoid a double payment.
+#### Deposited checks are returned. 
+	- There are cases where the bank will refuse to deposit a check, usually because it is drawn on a bank account located in another country. 
+	- reverse the original entry related to that deposit, which will be a credit to the cash account to reduce the cash balance, with a 		corresponding debit (increase) in the accounts receivable account
+# Formulas
+* Retained Earnings = (begining retained Earning + net income) - expense
+
+
+
+
